@@ -33,7 +33,7 @@ bleu **[Ajouter un adhérent](https://www.lautrelivre.fr/pages/adm_subscription_
 Le formulaire d'ajout d'adhérent demande trois informations :
 
 - Un éditeur (au sens maison d'édition) qui doit exister dans la base bibliographique Biblys
-- Une adresse e-mail qui doit correspondre à un compte utilisateur Axys
+- Une adresse e-mail
 - Une année de dernière cotisation (en général, l'année en cours)
 
 ![Formulaire ajouter un adhérent](https://www.lautrelivre.fr/media/docs/formulaire-ajouter-un-adherent.png)
