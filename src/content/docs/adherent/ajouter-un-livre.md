@@ -2,7 +2,7 @@
 title: Ajouter un livre
 ---
 
-C'est ici que vous pourrez créer une [nouvelle fiche livre](http://www.lautrelivre.fr/pages/log_article). Les fiches
+C'est ici que vous pourrez créer une [nouvelle fiche livre](https://lautrelivre.fr/pages/article_edit). Les fiches
 livres proposent de nombreux champs mais seuls ceux se trouvant dans la section L'essentiel sont obligatoires. Vous
 trouverez dans la [documentation](https://docs.biblys.fr/) un descriptif complet
 de [chaque champ](https://docs.biblys.fr/administrer/catalogue/fiche-article/).
